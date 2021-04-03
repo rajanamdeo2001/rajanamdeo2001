@@ -1,4 +1,4 @@
-﻿#Hey there 👋
+#Hey there 👋
 This is Raja namdeo , My sole purpose for writing or making this to impresss all those who come here. 
 
 #About me
