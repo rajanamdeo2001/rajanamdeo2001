@@ -1,7 +1,7 @@
-### Hi there, I'm Raja 👋
+## Hi there, I'm Raja 👋
 
 
-## I'm a Developer !!
+### I'm a Developer !!
 
 - 🔭 Undergraduate student of computer science engineering at UIT RGPV Bhopal
 - 📕 I’m currently learning everything 🤣
