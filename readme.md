@@ -1,4 +1,5 @@
 ## Hi there, I'm Raja 👋
+- I am studying B.tech in Computer Science Engineering at University Institute of Technology RGPV. I Expect to get Graduate in spring of 2023.
 
 
 ### I'm a Developer !!
