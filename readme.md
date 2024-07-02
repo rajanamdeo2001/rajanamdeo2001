@@ -1,17 +1,19 @@
 ## Hi there, I'm Raja 👋 - [Check my portfolio site](https://rajanamdeo.me/)
-- I am studying B.tech in Computer Science Engineering at University Institute of Technology RGPV. I Expect to get Graduate in spring of 2023.
+- 🚀 Passionate Web & Software Developer | Certified AWS cloud practitioner | Advancing Future Possibilities 🚀
 
 
 ### I'm a Developer !!
 
-- 🔭 Undergraduate student of computer science engineering at UIT RGPV Bhopal
-- 📕 I’m currently learning everything 🤣
-- 👯 Currently working on [Lazyfellows.gq](http://lazyfellows.gq/?i=1)
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🌱 Have knowlegde of full stack web devlopment
+- 🎯 Transforming Ideas into Seamless Experiences : C++ | ROR 
+- 🌐 Crafting User-Friendly Interfaces : Typescript | React
+- 🔧 Mastering alongside : AWS | Git | VS Code | Linux & bash 
+- 🥅 2024 Goals: Be better every single day, improve soft and hard skills
 - ⚡ Fun fact: I love Reading books and Exploring about new technologies
 
 
+Let's connect and shape the future together! Open to visionary projects & discussions. 👋
+
+#WebDeveloper #SoftwareDeveloper #FutureTech
 
 ### Connect with me:
 
@@ -21,6 +23,7 @@
 
 <br />
 
+<!--
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -45,3 +48,4 @@
 
 - [Dark web : the unseen side of internet | Part-1](https://youtu.be/SS40hB0SUkM)
 - [Dark web : the unseen side of internet | Part-2](https://youtu.be/rLJoT865Q5I)
+-->
