@@ -1,4 +1,4 @@
-## Hi there, I'm Raja 👋 - [Check my portfolio site](https://rajanamdeo.me/)
+## Hi there, I'm Raja 👋 - [.](https://rajanamdeo.me/)
 - 🚀 Passionate Web & Software Developer | Certified AWS cloud practitioner | Advancing Future Possibilities 🚀
 
 
